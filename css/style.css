@@ -1,0 +1,29 @@
+
+*{
+    margin :0;
+    padding:0;
+}
+
+.container   
+{
+    width: 1000px;
+    height: 100vh;
+    background-color: black;
+    margin:auto;
+
+}
+.gallery_item{
+    width: 250px;
+    
+
+}
+.gallery-name{
+    color: whitesmoke;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 28px;
+}
+.gallery{
+display: flex;
+justify-content: space-evenly;
+}
